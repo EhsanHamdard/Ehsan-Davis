@@ -62,7 +62,7 @@ header {
   margin-bottom: 110px;
 }
 #Introduction_to_javascript{
-  background-color: aliceblue;
+  background-color: rgb(211, 227, 241);
 }
 #What_is_known{
   background-color: antiquewhite;
@@ -79,6 +79,28 @@ header {
 #How_to_Declare_variables{
   background-color: honeydew;
 }
+#Variable_scope{
+  background-color: cornsilk;
+}
+#Global_variables{
+  background-color: floralwhite;
+}
+#Constants{
+  background-color: gainsboro;
+}
+#The_Data_types{
+  background-color: rgb(169, 196, 186);
+}
+#if_else_statement{
+  background-color: rgb(224, 224, 211);
+}
+#Function_declarations{
+  background-color: #bbf0f0;
+}
+#Reference{
+  background-color: #a9b5f3;
+}
+
 
 section article {
   color: #4d4e53;
