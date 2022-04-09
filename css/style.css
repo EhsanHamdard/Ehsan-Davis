@@ -19,7 +19,7 @@ body {
 }
 
 header {
-  color: black;
+  color: rgb(53, 20, 26);
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
@@ -29,6 +29,7 @@ header {
 #main-doc header {
   text-align: left;
   margin: 0px;
+  
 }
 
 #navbar ul {
@@ -59,6 +60,24 @@ header {
   margin-left: 310px;
   padding: 20px;
   margin-bottom: 110px;
+}
+#Introduction_to_javascript{
+  background-color: aliceblue;
+}
+#What_is_known{
+  background-color: antiquewhite;
+}
+#JavaScript_and_Java {
+  background-color: beige;
+}
+#Hello_world{
+  background-color: burlywood;
+}
+#Variables{
+  background-color: darkgrey;
+}
+#How_to_Declare_variables{
+  background-color: honeydew;
 }
 
 section article {
