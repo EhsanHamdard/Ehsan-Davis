@@ -1,7 +1,7 @@
 html,
 body {
   min-width: 290px;
-  color: #4d4e53;
+  color: #080808;
   background-color: #ffffff;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
@@ -63,6 +63,7 @@ header {
 }
 #Introduction_to_javascript{
   background-color: rgb(211, 227, 241);
+  
 }
 #What_is_known{
   background-color: antiquewhite;
@@ -166,4 +167,11 @@ code {
     padding-right: 45px;
     min-width: 233px;
   }
+}
+#footer{
+  text-align: center;
+  text-decoration-color: rgb(206, 100, 47);
+  font-size: larger;
+  color: #e84423;
+  
 }
